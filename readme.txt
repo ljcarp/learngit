@@ -6,4 +6,4 @@ git was revised.
 git was added.
 Git tracks changes.
 git revise..	
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
