@@ -5,5 +5,5 @@ Git has a mutable index called stage.
 git was revised.
 git was added.
 Git tracks changes.
-git revise..	
-Creating a new branch is quick.
+git revise..
+Creating a new branch is quick AND simple.
