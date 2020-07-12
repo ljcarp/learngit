@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 git was revised.
 git was added.
 Git tracks changes.
+git revise..
