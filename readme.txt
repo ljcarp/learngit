@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free software.
+Git is a free software.
 ljc  ljc  
 Git has a mutable index called stage.
 git was revised.
@@ -10,3 +10,4 @@ git revise..
 Creating a new branch is quick and simple.
 git revise..
 git merge way.
+
